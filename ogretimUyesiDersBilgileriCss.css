@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	border:0;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+.modal-full {
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-full .modal-content {
+    min-height: 100vh;
+}
