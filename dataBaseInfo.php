@@ -1,7 +1,7 @@
 <?php 
     $servername = "localhost";         
     $user = "root";           
-    $pass = "toor";     
+    $pass = "";     
     $dbname = "yazilimdb";
     $conn = new mysqli($servername,$user,$pass,$dbname);
 ?>
